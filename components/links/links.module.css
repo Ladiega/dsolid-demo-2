@@ -1,0 +1,16 @@
+.links_main_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.img_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row-reverse ;
+    
+    
+}

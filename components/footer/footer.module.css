@@ -1,0 +1,22 @@
+.global_footer {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    background-color: black;
+    position: absolute;
+    height: 80px;
+    
+  }
+  .footer_container{
+      display: flex;
+  }
+  
+  .footer_icons {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
